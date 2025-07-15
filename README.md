@@ -1,8 +1,8 @@
-# 👕 Fábrica de Camisetas
+# Fábrica de Camisetas
 
 Simulador de pedidos de camisetas com opções de modelos, descontos por quantidade e escolha do tipo de frete.
 
-## 🛍️ Funcionalidades
+## Funcionalidades
 
 - Escolha do modelo de camiseta:
   - MCS: Manga curta simples – R$ 1,80
@@ -18,12 +18,12 @@ Simulador de pedidos de camisetas com opções de modelos, descontos por quantid
   - 1 – Transportadora: R$ 100
   - 2 – Sedex: R$ 200
 
-## 💵 Cálculo final
+## Cálculo final
 
 O total é calculado com:
 Total = (Preço_unitário * Quantidade * (1 - Desconto)) + Frete
 
-## 💡 Exemplo de uso
+## Exemplo de uso
 
 ```bash
 Modelo: MCE
@@ -33,9 +33,9 @@ Desconto aplicado: 7%
 Frete: Transportadora (R$ 100)
 Total do pedido: R$ 774.25
 
-🛠️ Tecnologias
+Tecnologias
 Python 3.x
 
-👨‍💻 Autor
+Autor
 Marcus Vinicius da Silva Nunes
 GitHub - MarcusNunes-dev
