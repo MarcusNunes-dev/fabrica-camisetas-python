@@ -32,6 +32,7 @@ Quantidade: 250
 Desconto aplicado: 7%
 Frete: Transportadora (R$ 100)
 Total do pedido: R$ 774.25
+
 🛠️ Tecnologias
 Python 3.x
 
